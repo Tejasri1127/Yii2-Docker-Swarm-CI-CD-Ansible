@@ -1,0 +1,13 @@
+{
+    "name": "sample/yii2-app",
+    "description": "Sample Yii2 Application",
+    "require": {
+        "yiisoft/yii2": "~2.0.47"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }
+    }
+}
+
